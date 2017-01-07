@@ -53,8 +53,8 @@ Configuration file used by the app is registered in [Configuration repository UR
 5. Navigate to [actuator endpoint](http://platform-acceleration-movie-fun.cfapps.pez.pivotal.io/env)
 grap password from the log output of application startup, use username - user
 
-Below is the output of actuator endpoint highlighting the properties served by configuration server that we 
-provisioned in step 2.  Notice the reference to configService pointing to github repo with application.yml
+Below is the output of actuator endpoint highlighting the properties served by configuration server that we
+provisioned in step 2.  Notice the reference to configService pointing to github repo with application.yml.
 
 
 ```
